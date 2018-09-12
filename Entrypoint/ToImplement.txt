@@ -1,0 +1,13 @@
+﻿//Commands - Done for  1.0
+
+Also make sure Nyo never goes nuclear again. - Fixed
+
+
+Relationship mechanic:
+	JSON's with usernames and username based reactions
+
+Editable helptext.
+
+Lip licking command.
+
+Lewds sending capabilies.
